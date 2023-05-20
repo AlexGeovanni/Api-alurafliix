@@ -2,99 +2,99 @@
   "videos": [
     {
       "id": "9fa1863c-fe75-4fae-937e-1422ecfce82f",
-      "urlVideo": "https://www.youtube.com/watch?v=AG2QssLpQzI&t=2s",
-      "urlImg": "https://i.ytimg.com/vi/AG2QssLpQzI/hq720.jpg?sqp=-oaymwEcCNAFEJQDSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbUU2Mf8CAJ3sB0P3Lf5XVkbyYMQ",
+      "urlVideo": "https://www.youtube.com/watch?v=PztCEdIJITY&t=214s",
+      "urlImg": "https://i.ytimg.com/vi/PztCEdIJITY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2qK3Zjt_Y4Di7_0Hv5sJjrvkosQ",
       "categoria": "Front End",
-      "descripcion": "",
-      "codigoS": ""
+      "descripcion": "¿A veces cuando estás programando sientes dificuldades en saber en qué momento utilizar let, var o const para declarar una variable? En este video te sacamos estas dudas, además de explicarte lo que es escopo global y local en JavaScript.",
+      "codigoS": "Barbara1Front"
     },
     {
       "id": "eb94892b-9039-4fd0-92ee-d495e3aeade9",
       "urlVideo": "https://www.youtube.com/watch?v=rpvrLaBQwgg&t=375s",
       "urlImg": "https://i.ytimg.com/vi/rpvrLaBQwgg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJK_72imvkPUftCR6i52lfmAwR2A",
       "categoria": "Front End",
-      "descripcion": "",
-      "codigoS": ""
+      "descripcion": "¿Estás empezando tus estudios de Programación? ¿Te interesa todo lo que es la creación de Páginas Web Desarrollo de Softwares? ¿O estás pensando en cambiar de carrera y entrar a la maravillosa area de tecnología?",
+      "codigoS": "Jeamarie1Front"
     },
     {
       "id": "843f3798-5abd-45a0-a3de-f4bb65af667b",
       "urlVideo": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
       "urlImg": "https://i.ytimg.com/vi/t-iqt1b2qqk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvHzi_mOtKXBpQWhCpa0KUn52vow",
       "categoria": "Back End",
-      "descripcion": "",
-      "codigoS": ""
+      "descripcion": "Spring es el framework más usado de Java. Nos ofrece herramientas que nos permiten crear proyectos más avanzados, con mejores prácticas y en menor tiempo. También posee una gran comunidad, lo que nos brinda muchísima documentación y ayuda.",
+      "codigoS": "Erick1Back"
     },
     {
       "id": "3ca551da-3dfa-4495-bf44-7e294cabb51e",
       "urlVideo": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
       "urlImg": "https://i.ytimg.com/vi/GJfOSoaXk4s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKpxz6vMwTw26HQyprrrwHFadQ2g",
       "categoria": "Front End",
-      "descripcion": "",
-      "codigoS": ""
+      "descripcion": "JavaScript: ¿qué es y cómo se hizo este lenguaje que genera muchas discusiones y debates entre la gente del área de desarrollo? Genesys y Gabriela nos hablan exactamente de esto en este Alura Tips.",
+      "codigoS": "Gabriela1Front"
     },
     {
       "id": "36cc54a0-e911-4717-b639-f86b5807624b",
       "urlVideo": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
-      "urlImg": "https://i.ytimg.com/vi/cLLKVd5CNLc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCoAq6RVkWNnROKxhWbny5h0GbMwA",
+      "urlImg": "https://i.ytimg.com/vi/cLLKVd5CNLc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcAabout:blank#blockedBBg==&rs=AOn4CLCoAq6RVkWNnROKxhWbny5h0GbMwA",
       "categoria": "Back End",
-      "descripcion": "",
-      "codigoS": ""
+      "descripcion": "¿Cuáles son las diferencias entre una estructura de datos relacional (SQL) y una no relacional (NoSQL) y cuáles son las principales ventajas de cada una? Álvaro Camacho lo explica en este vídeo.",
+      "codigoS": "Gabriela1Back"
     },
     {
       "id": "c1d298b9-15da-444a-9692-bdf22fab8d82",
       "urlVideo": "https://www.youtube.com/watch?v=-LmFK6skG7s",
       "urlImg": "https://i.ytimg.com/vi/UuAX5azcvDQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIgMyXxVqSIC310Cq0_iicekvCkQ",
       "categoria": "Front End",
-      "descripcion": "",
-      "codigoS": ""
+      "descripcion": "Ve cómo funciona esta famosa herramienta de colaboración muy utilizada en el universo de la tecnología y tiene el control de las diferentes versiones de tus proyectos.",
+      "codigoS": "Genesys1Front"
     },
     {
       "id": "e4a9393e-0eac-4d36-918b-da789040fff1",
       "urlVideo": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
       "urlImg": "https://i.ytimg.com/vi/EoPvlE85XAQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPs_pZWDQJClLViVgQYyfBgD8qkw",
       "categoria": "Back End",
-      "descripcion": "",
-      "codigoS": ""
+      "descripcion": "¿Escribir muchas variables del tipo constantes en Java te parece un proceso tedioso y que genera muchas líneas de código? En este Alura+ la instructora Génesys Rondón nos enseña a simplificar esta tarea usando un tipo de dato especial llamado enum.",
+      "codigoS": "Genesys1Back"
     },
     {
       "id": "3ea8df5c-10c4-4482-8a19-f943f794f4f2",
       "urlVideo": "https://www.youtube.com/watch?v=vhwspfvI52k",
       "urlImg": "https://i.ytimg.com/vi/vhwspfvI52k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB69jh2_4uiilDUzFYKS6IZMQh5Ag",
       "categoria": "Innovación y Gestión",
-      "descripcion": "",
-      "codigoS": ""
+      "descripcion": "¿Qué son las Softskills y por qué es tan importante desarrollarlas para posicionarse en el mercado laboral? En este video de Alura Tips, Pri Stuani nos habla de las habilidades más buscadas por las empresas en sus profesionales y cómo las Soft Skills te ayudan en el día a día.",
+      "codigoS": "Gabriela1Innova"
     },
     {
       "id": "bb07a657-8194-443e-a2a0-c0fccde929da",
       "urlVideo": "https://www.youtube.com/watch?v=G1cDRqKuxpg",
       "urlImg": "https://i.ytimg.com/vi/G1cDRqKuxpg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEwV2ndlV0y65IJ71gQVC8d9VKxg",
       "categoria": "Back End",
-      "descripcion": "",
-      "codigoS": ""
+      "descripcion": "¿Qué es base de datos? Neste vídeo Maria Fernanda y Evelyn Reis te guiarán en el camino que debes seguir. Hablarán acerca de los conceptos relacionados a de Base de Datos y todo lo que debe saber sobre el tema.",
+      "codigoS": "EveFer1Back"
     },
     {
       "id": "8462dcd9-9bb9-485d-836b-52385898f5d8",
       "urlVideo": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
       "urlImg": "https://i.ytimg.com/vi/YhR7Zp8NUzE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6UTsxfxASIvP5FfJBLJcV7Fykuw",
       "categoria": "Innovación y Gestión",
-      "descripcion": "",
-      "codigoS": ""
+      "descripcion": "Seguro que ya escuchaste hablar sobre las Soft Skills, pero ¿sabes cuáles son las 7 más buscadas por las empresas? Quédate en este video con nosotros que vamos a explicarte la importancia de estas habilidades y porque son tan requeridas en el mercado laboral.",
+      "codigoS": "Gabriela2Innova"
     },
     {
       "id": "8c891014-2554-46df-8f99-aa5318f4ec28",
       "urlVideo": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
       "urlImg": "https://i.ytimg.com/vi/6N3OkLCfK-0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDq1E4lzcafq884jsP44Nu4YGTDg",
       "categoria": "Innovación y Gestión",
-      "descripcion": "",
-      "codigoS": ""
+      "descripcion": "En este video nuestra invitada, Andyara, nos explicará que són las muy conocidas hoy en día metodologias ágiles y nos comentará un poco sobre como aplicarlas y cuáles son los beneficios de utilizarlas en su equipo o empresa.",
+      "codigoS": "GabiAndy1Innova"
     },
     {
       "id": "a1c4c75d-9f2a-4526-b9fd-3361d0737526",
       "urlVideo": "https://www.youtube.com/watch?v=_zYbZ5S0VMw",
       "urlImg": "https://i.ytimg.com/vi/_zYbZ5S0VMw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3jN7HRrXJqNgydVEh5dgiO6jEBA",
-      "categoria": "Git",
-      "descripcion": "",
-      "codigoS": ""
+      "categoria": "Innovación y Gestión",
+      "descripcion": "Trabajar desde casa tiene muchas ventajas pero también puede tornarse una tarea desafiadora. Algunos de los factores que nos afectan en nuestra productividad son la falta de una rutina diaria, así como todo aquello que nos distraiga.",
+      "codigoS": "Gabriela3Innova"
     }
   ],
   "categorias": [
@@ -127,6 +127,13 @@
       "codigoS": "infraesst"
     },
     {
+      "id": "eb08f4b3-ffce-48ce-b0d9-6a4660120dbb",
+      "titulo": "Data Sciencie",
+      "colorPrimario": "#91D73B",
+      "descripcion": "Cosas de React y Python que vengo aprendiendo",
+      "codigoS": "DataScc"
+    },
+    {
       "id": "8248da26-7566-4d3f-8467-02be8f8596b5",
       "titulo": "Design & UX",
       "colorPrimario": "#DC6EBE",
@@ -146,13 +153,6 @@
       "colorPrimario": "#FF8C2A",
       "descripcion": "Como mantener el equipo felíz y mucho mas.",
       "codigoS": "Innovacionn"
-    },
-    {
-      "id": "6d61d8a7-4ad2-421f-bf33-2992335bdc90",
-      "titulo": "Git",
-      "colorPrimario": "#f7ef08",
-      "descripcion": "Herramientas y técnicas que esudio sobre Git",
-      "codigoS": "Giiit"
     }
   ]
 }
