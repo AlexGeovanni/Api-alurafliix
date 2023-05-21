@@ -1,6 +1,7 @@
 {
   "videos": [
     {
+      "titulo":"Cuándo usar let, var y const",
       "id": "9fa1863c-fe75-4fae-937e-1422ecfce82f",
       "urlVideo": "https://www.youtube.com/watch?v=PztCEdIJITY&t=214s",
       "urlImg": "https://i.ytimg.com/vi/PztCEdIJITY/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2qK3Zjt_Y4Di7_0Hv5sJjrvkosQ",
@@ -9,6 +10,7 @@
       "codigoS": "Barbara1Front"
     },
     {
+      "titulo":"Equipo Front End",
       "id": "eb94892b-9039-4fd0-92ee-d495e3aeade9",
       "urlVideo": "https://www.youtube.com/watch?v=rpvrLaBQwgg&t=375s",
       "urlImg": "https://i.ytimg.com/vi/rpvrLaBQwgg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDJK_72imvkPUftCR6i52lfmAwR2A",
@@ -17,6 +19,7 @@
       "codigoS": "Jeamarie1Front"
     },
     {
+      "titulo":"Spring Framework. ¿Qué es ?",
       "id": "843f3798-5abd-45a0-a3de-f4bb65af667b",
       "urlVideo": "https://www.youtube.com/watch?v=t-iqt1b2qqk",
       "urlImg": "https://i.ytimg.com/vi/t-iqt1b2qqk/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvHzi_mOtKXBpQWhCpa0KUn52vow",
@@ -25,6 +28,7 @@
       "codigoS": "Erick1Back"
     },
     {
+      "titulo":"¿Qué es JavaScript?",
       "id": "3ca551da-3dfa-4495-bf44-7e294cabb51e",
       "urlVideo": "https://www.youtube.com/watch?v=GJfOSoaXk4s",
       "urlImg": "https://i.ytimg.com/vi/GJfOSoaXk4s/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKpxz6vMwTw26HQyprrrwHFadQ2g",
@@ -33,6 +37,7 @@
       "codigoS": "Gabriela1Front"
     },
     {
+      "titulo":"¿Qué es SQL y NoSQL?",
       "id": "36cc54a0-e911-4717-b639-f86b5807624b",
       "urlVideo": "https://www.youtube.com/watch?v=cLLKVd5CNLc",
       "urlImg": "https://i.ytimg.com/vi/cLLKVd5CNLc/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcAabout:blank#blockedBBg==&rs=AOn4CLCoAq6RVkWNnROKxhWbny5h0GbMwA",
@@ -41,14 +46,16 @@
       "codigoS": "Gabriela1Back"
     },
     {
+      "titulo":"¿Cómo un desarrollador Front End utiliza el Figma?",
       "id": "c1d298b9-15da-444a-9692-bdf22fab8d82",
-      "urlVideo": "https://www.youtube.com/watch?v=-LmFK6skG7s",
+      "urlVideo": "https://www.youtube.com/watch?v=UuAX5azcvDQ",
       "urlImg": "https://i.ytimg.com/vi/UuAX5azcvDQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBIgMyXxVqSIC310Cq0_iicekvCkQ",
       "categoria": "Front End",
-      "descripcion": "Ve cómo funciona esta famosa herramienta de colaboración muy utilizada en el universo de la tecnología y tiene el control de las diferentes versiones de tus proyectos.",
+      "descripcion": "¿Cómo un desarrollador Front End utiliza el Figma? En este Alura+, Genesys, instructora de Alura Latam, nos responde esa pregunta y nos muestra esta conocida herramienta.",
       "codigoS": "Genesys1Front"
     },
     {
+      "titulo":"Simplificando tu código en Java: Conoce los enum",
       "id": "e4a9393e-0eac-4d36-918b-da789040fff1",
       "urlVideo": "https://www.youtube.com/watch?v=EoPvlE85XAQ",
       "urlImg": "https://i.ytimg.com/vi/EoPvlE85XAQ/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDPs_pZWDQJClLViVgQYyfBgD8qkw",
@@ -57,6 +64,7 @@
       "codigoS": "Genesys1Back"
     },
     {
+      "titulo":"¿Qué son las Soft Skills?",
       "id": "3ea8df5c-10c4-4482-8a19-f943f794f4f2",
       "urlVideo": "https://www.youtube.com/watch?v=vhwspfvI52k",
       "urlImg": "https://i.ytimg.com/vi/vhwspfvI52k/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB69jh2_4uiilDUzFYKS6IZMQh5Ag",
@@ -65,6 +73,7 @@
       "codigoS": "Gabriela1Innova"
     },
     {
+      "titulo":"Descomplicando Base de Datos",
       "id": "bb07a657-8194-443e-a2a0-c0fccde929da",
       "urlVideo": "https://www.youtube.com/watch?v=G1cDRqKuxpg",
       "urlImg": "https://i.ytimg.com/vi/G1cDRqKuxpg/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDEwV2ndlV0y65IJ71gQVC8d9VKxg",
@@ -73,6 +82,7 @@
       "codigoS": "EveFer1Back"
     },
     {
+      "titulo":"7 Soft Skills más deseadas por las empresas",
       "id": "8462dcd9-9bb9-485d-836b-52385898f5d8",
       "urlVideo": "https://www.youtube.com/watch?v=YhR7Zp8NUzE",
       "urlImg": "https://i.ytimg.com/vi/YhR7Zp8NUzE/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB6UTsxfxASIvP5FfJBLJcV7Fykuw",
@@ -81,6 +91,7 @@
       "codigoS": "Gabriela2Innova"
     },
     {
+      "titulo":"¿Qué son las metodologias ágiles?",
       "id": "8c891014-2554-46df-8f99-aa5318f4ec28",
       "urlVideo": "https://www.youtube.com/watch?v=6N3OkLCfK-0",
       "urlImg": "https://i.ytimg.com/vi/6N3OkLCfK-0/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDDq1E4lzcafq884jsP44Nu4YGTDg",
@@ -89,6 +100,7 @@
       "codigoS": "GabiAndy1Innova"
     },
     {
+      "titulo":"Tips de para tener concentración en el Home Office",
       "id": "a1c4c75d-9f2a-4526-b9fd-3361d0737526",
       "urlVideo": "https://www.youtube.com/watch?v=_zYbZ5S0VMw",
       "urlImg": "https://i.ytimg.com/vi/_zYbZ5S0VMw/hqdefault.jpg?sqp=-oaymwEcCNACELwBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA3jN7HRrXJqNgydVEh5dgiO6jEBA",
